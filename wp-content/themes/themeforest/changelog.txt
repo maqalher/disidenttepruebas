@@ -1,0 +1,248 @@
+<--------- Sevenmag updates --------- >
+
+====================================================================================
+version 2.4 - 21 Dec, 2016
+
+- WordPress 4.7 compatible
+- Fixed All security vulnerability
+- Fixed if there is no title for widgets
+- Fixed visual composer problems
+- Fixed all the widgets php errors
+
+Update files:
+	functions.php
+	admin/T20_loader.php
+	admin/widgets folder - all the files
+
+====================================================================================
+version 2.3 - 21 Feb, 2015
+
+- Added Multiple category selection for slideshow
+- Added Multiple tag selection for slideshow
+- Added Multiple category selection for newsbar
+
+- Updated Visual composer to v4.3.4
+- Updated MasterSlider v2.6.0
+
+- Fixed lighbox in single pages
+- Fixed dark post title color
+- Fixed dwqa styles problems in single page
+
+====================================================================================
+version 2.2 - 25 September, 2014
+
+- Updated MasterSlider to v2.6.0
+- Updated Visual Composer to 4.3.4
+- Updated shortcodes icons
+- Fixed functions.php bug
+- fixed bbpress forums and topics issues
+- fixed dark.css styles
+- fixed some issues in rtl.css
+- fixed megamenu in rtl.css
+- fixed social icons target blank issue
+- fixed megamenu issue when wp-debug is true
+- added popular tags under search form (optional)
+- fixed widget menu with sub menu in all colors
+- improved author rich snippets google data
+- updated TGM activation plugins to v2.4
+
+- Please update your theme and plugins folders via FTP
+
+====================================================================================
+version 2.1 - 28 August, 2014
+
+- fixed lightbox problem in single post
+- fixed block 2 item sizes
+- fixed custom.js bug
+- updated master slider to latest version
+- updated visual compsoer to v4.3.3
+
+- updated files:
+		style.css
+		functions.php
+		single.php
+		js/custom.js
+		plugins/masterslider.js
+		plugins/js_composer.js
+
+====================================================================================
+version 2 - 16 July, 2014
+
+- added MasterSlider
+- added Header image options
+- added PrettyPhoto to single post images
+- added buddypress supports up to 60%
+- added new option for big slideshow position
+- added new navigation option
+- added Sticky navigation
+- added new options for megamenu
+- added new footer widgets area up to 6 columns
+- added new instagram widget + Slidehsow and thumb
+- added again meta description and keyword seo (optional)
+- added new home pages (dummy data included)
+- added new social icons for header and widget
+- added reset wp query for slideshow
+- added h1 tag for single posts title
+- added time, title and author structure data
+- fixed sidebar position when blocks are empty
+- fixed border color of sub menus in navigation
+- fixed logo size on sticky position
+- updated theme options
+- updated article images floats
+- updated responsive issues
+- updated font awesome to latest version
+- updated visual composer to v4.3.2
+- updated demo content dummy data
+- and other minor fixes
+
+- * Please update all files of your theme
+
+====================================================================================
+version 1.9 - 16 July, 2014
+
+- added category megamenu {Read documentation}
+- added two columns list megamneu {Read documentation}
+- fixed styles.css
+- fixed DWQA pages with latest release of DWQA
+
+- * updated all files
+
+
+====================================================================================
+version 1.8.8 - 20 May, 2014
+
+- fixed dark version
+- fixed author page
+- fixed block popular posts
+- fixed wordpress code editor for single.php
+- fixed some issue in style.css
+- updated visual composer
+- updated files:
+---- author.php
+---- single.php
+---- style.css
+---- styles/dark.css
+---- admin folder: files started with T
+
+====================================================================================
+version 1.8.7 - 04 May, 2014
+
+- fixed title of single posts and woocommerce
+- updated masonry pages to latest masonry script
+- fixed rtl masonry issue
+- added new Animations effects for loads blocks
+- added new: block9
+- also some of other issues fixed
+
+- * updated all files
+
+====================================================================================
+version 1.8.6 - 02 May, 2014
+
+- fixed homepage posts pagination
+- fixed slideshow the_thumbnails
+- updated files
+----- header.php
+----- page.php
+----- page-home-blank.php
+----- page-home-slideshow.php
+
+====================================================================================
+version 1.8.5 - 25 Apr, 2014
+
+- New Feature: Masonry blog posts beta (in next update will be fully ready)
+- fixed wp 3.9 shortcodes button
+- fixed Tab widget title translation
+- fixed responsive load blocks
+- fixed select sidebar in pages
+- fixed select layout in pages
+- fixed subscribe input placeholder translation
+- improved design and block shadows
+- updated visual composer to v4.1.2
+
+====================================================================================
+version 1.8.2 - 23 Apr, 2014
+
+- New feature: compatible with ask and question plugin
+- fixed dynamic styles output
+- fixed pages and page templates bugs
+updated files:
+---- style.css
+---- admin/dynamic-style.php
+---- admin/theme-options.php
+---- functions.php
+---- page.php
+---- page-home-blank.php
+---- page-home-slideshow.php
+----- new folder to root: dwqa-templates
+
+====================================================================================
+version 1.8.1 - 20 Apr, 2014
+- After update to v1.8.1 please once save Theme Options settings.
+
+====================================================================================
+version 1.8 - 19 Apr, 2014
+
+- * All files updated
+- New feature: woocommerce supports
+- New feature: 4 Style header
+- New feature: Off Canvas menu navigation
+- New feature: 2 new block: Slideshow 2 and small grids
+- New feature: translation important srtings from theme options
+- New feature: ajax like plugin button for posts
+- fixed RTL bugs
+- fixed responsive style
+- fixed fullwide slideshow
+- fixed single.php featured image
+- fixed comment form bugs
+
+====================================================================================
+version 1.7.1 - 6 Apr, 2014
+
+- fixed dark version of forums pages
+- added new options for hover navigation
+
+====================================================================================
+version 1.7 - 3 Apr, 2014
+
+- * All files updated
+- added new empty widget for codes, ads
+- added new options on theme options (please update your settings)
+- added animation loading on scroll
+- fixed rtl.css bugs
+- updated translation files .po/.mo
+
+====================================================================================
+version 1.6 - 1 Apr, 2014
+
+- added Color Picker for top border of widgets and blocks
+- fixed linkedin social icon showing
+- fixed responsive bugs
+- changed readmore button on posts
+- updated files:
+---- style.css
+---- functions.php
+---- admin/dynamic-styles.php
+---- admin/theme-options.php
+---- widgets/T20-social.php
+---- styles/responsive.css
+
+====================================================================================
+version 1.5 - 26 Mar, 2014
+
+- added small thumbnails for posts list
+- added option News title background color
+- fixed styles bugs
+- updated documentation for add retina icon
+- updated visual composer
+- updated review system
+- updated files:
+---- rtl.css
+---- style.css
+---- content.php
+---- functions.php
+---- header.php
+---- admin/dynamic-styles.php
+---- admin/theme-options.php
+---- styles/responsive.css
+---- js/custom.js
